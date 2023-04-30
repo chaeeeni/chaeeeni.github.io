@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Chaeeun Kim"
+  avatar           : "/Users/chaeeunkim/Documents/채은/oss/lab9/KakaoTalk_Image_2023-05-01-00-28-56.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Pohang, Republic of Korea"
+  email            : "kcy315@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
