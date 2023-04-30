@@ -18,13 +18,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Chaeeun's Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "welcome" # site tagline that appears below site title in masthead
 name                     : "Chaeeun Kim"
 description              : "An amazing website."
 url                      : "https://chaeeeni.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "안녕하세요" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "https://cdn.pixabay.com/photo/2018/11/23/14/19/forest-3833973__480.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://cdn.pixabay.com/photo/2023/03/28/19/55/lake-7884049_640.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -108,7 +108,7 @@ author:
   avatar           : "https://cdn.pixabay.com/photo/2021/11/12/03/04/woman-6787784__480.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Pohang, Republic of Korea"
-  email            : "kcy315@naver.com"
+  email            : #"kcy315@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
