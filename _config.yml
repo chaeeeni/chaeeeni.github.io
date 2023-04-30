@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Chaeeun Kim"
-  avatar           : "/Users/chaeeunkim/Documents/채은/oss/lab9/KakaoTalk_Image_2023-05-01-00-28-56.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://cdn.pixabay.com/photo/2021/11/12/03/04/woman-6787784__480.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Pohang, Republic of Korea"
   email            : "kcy315@naver.com"
@@ -113,6 +113,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
+      url: "kcy315@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
