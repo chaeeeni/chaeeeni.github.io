@@ -108,7 +108,7 @@ author:
   avatar           : "https://cdn.pixabay.com/photo/2021/11/12/03/04/woman-6787784__480.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Pohang, Republic of Korea"
-  email            : # "kcy315@naver.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
